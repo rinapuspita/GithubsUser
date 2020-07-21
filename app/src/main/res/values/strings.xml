@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Github\'s User</string>
+    <string name="not_found">Not Found.</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="no_follower">User don\'t Have Followers!</string>
+    <string name="no_following">User don\'t Have Followwing!</string>
+    <string name="filling">Please Fill Username!</string>
+    <string name="hint_username">Input username</string>
+    <string name="sampleuser">Rina Puspita</string>
+    <string name="nama">Name</string>
+    <string name="username">Username</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="num_string">0</string>
+    <string name="following">Following</string>
+    <string name="no_data">No Data</string>
+    <string name="github_url">github url</string>
+    <string name="not_found_list">Sorry, this word didn\'t match our record.Please check again.</string>
+    <string name="fail">Failure load data</string>
+    <string name="try_again">Try Again</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="notification">Notification</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="notification_setting">Setting Notification</string>
+    <string name="favorite_list">Favorite</string>
+    <string name="fav_failed">Failed add user to favorite, user already exist</string>
+    <string name="no_favorit">Empty Favorite Users</string>
+    <string name="content_title">Github Notification</string>
+    <string name="content_text">Lets Find Popular User on Github</string>
+    <string name="subtext">Github User</string>
+    <string name="notif_set">Notification Active</string>
+    <string name="notif_off">Notification Off</string>
+    <string name="message">message</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pengguna Github</string>
+    <string name="not_found">Data tidak ditemukan!</string>
+    <string name="tab_text_1">Pengikut</string>
+    <string name="tab_text_2">Mengikuti</string>
+    <string name="no_follower">Pengguna tidak memiliki pengikut!</string>
+    <string name="no_following">Pengguna tidak mengikuti siapapun!</string>
+    <string name="filling">Harap Masukkan Nama Pengguna!</string>
+    <string name="hint_username">Masukkan nama pengguna</string>
+    <string name="sampleuser">Rina Puspita</string>
+    <string name="nama">Nama</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="company">Perusahaan</string>
+    <string name="location">Lokasi</string>
+    <string name="repository">Repositori</string>
+    <string name="followers">Pengikut</string>
+    <string name="num_string">0</string>
+    <string name="following">Mengikuti</string>
+    <string name="no_data">Data tidak ada</string>
+    <string name="github_url">github url</string>
+    <string name="not_found_list">Maaf, kata yang Anda masukkan tidak sesuai dengan data kami. Mohon periksa sekali lagi.</string>
+    <string name="fail">Gagal memuat data</string>
+    <string name="try_again">Coba Lagi</string>
+    <string name="no_internet">Tidak ada koneksi internet</string>
+    <string name="notification">Pemberitahuan</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="notification_setting">Pengaturan Notifikasi</string>
+    <string name="favorite_list">Favorit</string>
+    <string name="fav_failed">"Gagal menambahkan user ke favorit, nama user sudah ada "</string>
+</resources>
